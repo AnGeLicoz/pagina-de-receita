@@ -1,0 +1,29 @@
+@media (max-width:768px) {
+
+    main {
+        margin: 0;
+        width: 100vw;
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
+
+    main img {
+        padding: 0;
+        margin: 0;
+        width: 100vw;
+        border-radius: 0;
+    }
+
+    main .titulo-receita {
+        font-size: 3.7rem;
+    }
+
+    .itens-preparacao li {
+        margin-left: 8vw;
+    }
+
+    .ingredientes-lista {
+        padding-left: 5vw;
+    }
+
+}
