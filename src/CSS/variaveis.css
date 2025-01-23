@@ -1,0 +1,10 @@
+:root {
+    --cinzaescuro: hsl(24, 5%, 18%);
+    --cinzaclaro :  hsl(30, 10%, 34%);
+    --cinza : hsl(30, 18%, 87%);
+    --branco: hsl(0, 0%, 100%);
+    --bege: hsl(30, 54%, 90%);
+    --rosa :hsl(330, 100%, 98%);
+    --vinho: hsl(332, 51%, 32%);
+    --chocolate: hsl(14, 45%, 36%);
+}
